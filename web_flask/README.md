@@ -1,1 +1,1 @@
-<center> <h1>AirBnB clone - Web framework</h1> </center>
+# Solutions to tasks on AirBnB clone - Web framework
